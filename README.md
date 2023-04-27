@@ -1,2 +1,2 @@
 
-Deploy: god-of-war0.netlify.app
+Deploy: https://god-of-war0.netlify.app/
