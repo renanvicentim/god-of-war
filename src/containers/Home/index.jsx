@@ -37,7 +37,8 @@ function App() {
 
       <main>
         <FirstSection>
-          <h1>Um mundo mais sombrio e primitivo</h1>
+          <div>         
+            <h1>Um mundo mais sombrio e primitivo</h1>
           <p>
             Do mármore e colunas ornadas do Ólimpo para as florestas, este é um
             reino novo, com suas próprias espécies de criaturas, monstros e
@@ -48,6 +49,9 @@ function App() {
             <BtnPrimary href="">Compre Agora</BtnPrimary>
             <BtnSecondary>Saiba Mais</BtnSecondary>
           </div>
+
+          </div>
+
 
           <div className="container-video">
             <video autoPlay muted controls>

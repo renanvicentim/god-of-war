@@ -95,7 +95,9 @@ export const BtnSecondary = styled.button`
 
 export const FirstSection = styled.section`
   margin-top: 20px;
-  padding: 0 40px;
+  padding: 70px 80px;
+  display: flex;
+  justify-content: space-between;
   h1 {
     font-family: "Cinzel", sans-serif;
     font-weight: 700;
@@ -124,7 +126,7 @@ export const FirstSection = styled.section`
 
   .container-video {
     display: flex;
-    justify-content: end;
+    align-items: end;
     padding-right: 75px;
   }
 
@@ -139,7 +141,7 @@ export const FirstSection = styled.section`
 `;
 
 export const SecondSection = styled.section`
-  margin-top: 150px;
+  padding-top: 350px;
   text-align: center;
 
   h2 {
